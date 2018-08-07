@@ -1,0 +1,8 @@
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 768px) {body {background-color: yellow;align-content: center;}
+  .heading {color: green;font-style: oblique;}.name {color: red}.header {color: purple}.impo {color: grey}.exa {color: blue}}
