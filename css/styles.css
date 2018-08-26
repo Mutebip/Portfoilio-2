@@ -10,7 +10,10 @@
     font-style: oblique;
     font-size: 50px;
   }
-    .name {color: red}.header {color: purple}.impo {color: grey}.exa {color: blue}
+    .name {color: red}
+    .header {color: purple}
+    .impo {color: grey}
+    .exa {color: blue}
     .intro{
       color: #007575;
       font-size: 30px;
